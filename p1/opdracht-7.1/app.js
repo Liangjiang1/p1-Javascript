@@ -1,6 +1,6 @@
 let budget = 100;
 
-let product = 60;
+let product = prompt("hoeveel kost het product")
 
 let h1 = document.getElementById("uitkomst");
 
